@@ -1,6 +1,6 @@
 Authors:
-Gal Elhiani, 207233248
-Daniel Cohen, 213509714
+Gal Elhiani,
+Daniel Cohen,
 Deep Learning final project
 ============================================================================================================================================================
 Instructions to run the project:
@@ -17,7 +17,7 @@ and log in to your account
 
 #3
 enter to the server using the following link: (its not a virus we swear :D):
-https://discord.gg/sVQv6zxx
+(removed for privacy purposes)
 and change your name to an animal of your choosing (necessary)
 
 #4
@@ -30,7 +30,7 @@ create_database.ipynb
 convert_to_actions.ipynb
 bert_discord_model.pth
 gpt2_discord_model.pth
-
+(in here included the code files)
 #5
 make sure the folder: "Discord_Manager_files" has a shortcut within "MyDrive" (necessary)
 
