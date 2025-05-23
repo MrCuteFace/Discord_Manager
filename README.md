@@ -82,10 +82,4 @@ bambi1826: !please ban kitten6293
 Dog_Manager: {'action': 'ban', 'user': 'kitten6293', 'role': 'null'} (yes/no)
 bambi1826: blah
 Dog_Manager: Invalid response. Please retype the message and answer 'yes' or 'no'.
-============================================================================================================================================================
-Possible roles to play with:
-Official whiteboard opener
-Admin
-chess player
-Programmer
-VIP
+
